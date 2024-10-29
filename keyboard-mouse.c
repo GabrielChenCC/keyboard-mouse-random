@@ -151,7 +151,7 @@ int main(void) {
 		return 1;
 	}
 
-	if ((rc = dev_init(fd, "umad")))
+	if ((rc = dev_init(fd, "fake-key-mouse")))
 		goto close_fd;
 
 	srand(time(NULL));
