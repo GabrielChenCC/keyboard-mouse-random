@@ -1,5 +1,5 @@
 /**
- * umad.c - A simple uinput program to randomly generate input events
+ * key-mouse-random.c - A simple uinput program to randomly generate input events
  * including key presses, mouse movements.
  *
  * SPDX-License-Identifier: GPL-2.0 (inherited from linux/uinput.h)
